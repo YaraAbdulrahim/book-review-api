@@ -59,7 +59,8 @@ You can test the API using:
 Postman
 curl
 Django REST Framework browsable API
-📖 Project Description
+
+ -Project Description
 
 This project demonstrates how to build a secure REST API using Django REST Framework with:
 
